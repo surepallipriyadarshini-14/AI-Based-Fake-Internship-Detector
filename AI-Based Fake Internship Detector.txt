@@ -1,0 +1,2 @@
+AI-Based Fake Internship Detector
+NLP + risk scoring
